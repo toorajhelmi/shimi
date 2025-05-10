@@ -1,0 +1,101 @@
+Agent Name,Description
+Agent1,Adds two numbers.
+Agent2,Subtracts the second number from the first.
+Agent3,Multiplies two numbers.
+Agent4,Divides the first number by the second.
+Agent5,Computes the square of a number.
+Agent6,Computes the cube of a number.
+Agent7,Calculates the square root of a number.
+Agent8,Calculates the cube root of a number.
+Agent9,Adds three numbers.
+Agent10,Subtracts three numbers in sequence.
+Agent11,Multiplies three numbers.
+Agent12,Computes the average of two numbers.
+Agent13,Computes the average of three numbers.
+Agent14,Computes the median of three numbers.
+Agent15,Calculates the remainder of a division.
+Agent16,Computes the percentage of one number relative to another.
+Agent17,Increases a number by a percentage.
+Agent18,Decreases a number by a percentage.
+Agent19,Converts a fraction to a percentage.
+Agent20,Converts a percentage to a fraction.
+Agent21,Computes the power of a number raised to another.
+Agent22,Computes the logarithm base 10.
+Agent23,Computes the natural logarithm.
+Agent24,Computes the absolute value.
+Agent25,Computes the factorial of a number.
+Agent26,Computes the nth root of a number.
+Agent27,Calculates compound interest.
+Agent28,Calculates simple interest.
+Agent29,Adds a list of numbers.
+Agent30,Multiplies a list of numbers.
+Agent31,Computes the variance of two numbers.
+Agent32,Computes the standard deviation of two numbers.
+Agent33,Rounds a number to the nearest integer.
+Agent34,Rounds a number to 2 decimal places.
+Agent35,Finds the maximum of two numbers.
+Agent36,Finds the minimum of two numbers.
+Agent37,Calculates the mode of a list of numbers.
+Agent38,Converts a decimal to binary.
+Agent39,Converts binary to decimal.
+Agent40,Computes the gcd of two numbers.
+Agent41,Computes the lcm of two numbers.
+Agent42,Computes the difference between squares of two numbers.
+Agent43,Computes the product of sum and difference of two numbers.
+Agent44,Computes the result of a number raised to the power of 0.5.
+Agent45,Computes the result of a number raised to the power of 2.5.
+Agent46,Computes the inverse of a number.
+Agent47,Computes the reciprocal of a number.
+Agent48,Determines if a number is even.
+Agent49,Determines if a number is odd.
+Agent50,Computes the sum of the digits of a number.
+Agent51,Reverses the digits of a number.
+Agent52,Computes the distance between two numbers on a number line.
+Agent53,Computes the weighted average of two numbers.
+Agent54,Calculates the area of a rectangle given length and width.
+Agent55,Calculates the perimeter of a rectangle.
+Agent56,Calculates the area of a triangle given base and height.
+Agent57,Calculates the perimeter of a triangle.
+Agent58,Calculates the area of a circle given the radius.
+Agent59,Calculates the circumference of a circle.
+Agent60,Computes the volume of a cube.
+Agent61,Computes the volume of a cylinder.
+Agent62,Computes the volume of a cone.
+Agent63,Computes the surface area of a cube.
+Agent64,Computes the surface area of a cylinder.
+Agent65,Computes the surface area of a cone.
+Agent66,Converts hours to minutes.
+Agent67,Converts minutes to seconds.
+Agent68,Converts seconds to milliseconds.
+Agent69,Converts degrees to radians.
+Agent70,Converts radians to degrees.
+Agent71,Computes the sine of an angle.
+Agent72,Computes the cosine of an angle.
+Agent73,Computes the tangent of an angle.
+Agent74,Computes the cotangent of an angle.
+Agent75,Computes the secant of an angle.
+Agent76,Computes the cosecant of an angle.
+Agent77,Calculates speed given distance and time.
+Agent78,Calculates distance given speed and time.
+Agent79,Calculates time given speed and distance.
+Agent80,Converts celsius to fahrenheit.
+Agent81,Converts fahrenheit to celsius.
+Agent82,Computes the bmi given weight and height.
+Agent83,Computes the tax on a given amount and rate.
+Agent84,Computes the discount on a given amount and rate.
+Agent85,Calculates the net price after discount.
+Agent86,Calculates the gross price before discount.
+Agent87,Computes the markup price given cost and markup rate.
+Agent88,Computes the markdown price given price and markdown rate.
+Agent89,Computes the ratio of two numbers.
+Agent90,Simplifies a ratio.
+Agent91,Converts a ratio to percentage.
+Agent92,Computes the mean absolute deviation of two numbers.
+Agent93,Computes the z-score for a data point.
+Agent94,Computes a number mod 2.
+Agent95,Computes a number mod 3.
+Agent96,Computes a number mod 5.
+Agent97,Checks if a number is divisible by 3.
+Agent98,Checks if a number is divisible by 5.
+Agent99,Checks if a number is divisible by 7.
+Agent100,Checks if a number is a prime.

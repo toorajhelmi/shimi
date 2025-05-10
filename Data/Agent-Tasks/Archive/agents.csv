@@ -1,0 +1,26 @@
+Name,Description
+Report Generator,Builds summary dashboards and detailed analytics reports.
+Data Aggregator,Combines structured and unstructured data for analysis.
+Transaction Reconciler,Matches financial records to detect inconsistencies or fraud.
+Trend Forecaster,Projects trends using historical and predictive models.
+Risk Simulator,Simulates economic or legal risk scenarios to estimate exposure.
+Schedule Planner,"Creates optimal schedules from tasks, resources, and constraints."
+Behavior Analyzer,Detects and classifies patterns of user behavior.
+Sentiment Analyzer,Processes communication to detect emotion and tone.
+Meeting Optimizer,Identifies unnecessary meetings and suggests consolidation.
+Itinerary Builder,Constructs multi-stop travel plans with constraints.
+Visa Validator,Checks visa requirements and application status by nationality.
+Health Risk Checker,Flags medical and travel health alerts by region.
+Grocery Planner,Creates weekly food plans minimizing waste and maximizing nutrition.
+Price Tracker,Monitors item prices and alerts for drops or spikes.
+Sustainability Scorer,Rates items based on material and labor ethics.
+Bundle Optimizer,Creates shopping bundles based on budget and compatibility.
+Product Recommender,Suggests products based on context and constraints.
+Habit Tracker,Logs and reinforces user behaviors through feedback loops.
+Nutrition Evaluator,Analyzes food intake against health goals.
+Sleep Optimizer,Improves sleep quality using biometric and environmental data.
+Routine Designer,Creates lifestyle routines based on goal inputs.
+Compliance Checker,Validates policies against legal frameworks.
+Risk Assessor,Rates contractual or legal risk from documents.
+Clause Extractor,Extracts legal clauses from contracts using NLP.
+Summary Composer,Condenses long content into action-oriented summaries.
