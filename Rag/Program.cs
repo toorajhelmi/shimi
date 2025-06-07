@@ -4,6 +4,7 @@ using Newtonsoft.Json;
 using Rag;
 using Shimi.Shared;
 using Spectre.Console;
+using Agent = Rag.Agent;
 using Console = Spectre.Console.AnsiConsole;
 
 namespace CosmosAgentGuide
@@ -128,7 +129,7 @@ namespace CosmosAgentGuide
                    ctx.SpinnerStyle(Style.Parse("green"));
 
                    ctx.Status("Parsing Agent files..");
-                   agents = DataManager<Agent>.LoadFromCsv<AgentCsvMap>("Data.Agents.csv").DistinctBy(ai => ai.Name).Select(ai => new Agent
+                   agents = DataManager<Agent>.LoadFromCsv<Rag.AgentCsvMap>("Data.Agents.csv").DistinctBy(ai => ai.Name).Select(ai => new Agent
                    {
                        Name = ai.Name,
                        Description = ai.Description

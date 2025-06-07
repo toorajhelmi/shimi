@@ -1,10 +1,7 @@
-﻿using Shimi;
-using Shimi.Samples.Agents;
-using Shimi.Shared;
+﻿using Shimi.Shared;
 using Spectre.Console;
-using Color = Spectre.Console.Color;
 using AnsiConsole = Spectre.Console.AnsiConsole;
-using System.Threading.Tasks;
+using Color = Spectre.Console.Color;
 
 namespace Shimi.Console
 {

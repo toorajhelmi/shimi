@@ -15,7 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Shimi.Sample1\Shimi.Samples.csproj" />
     <ProjectReference Include="..\Shimi.Samples.Data\Shimi.Samples.Data.csproj" />
     <ProjectReference Include="..\Shimi\Shimi.csproj" />
   </ItemGroup>
